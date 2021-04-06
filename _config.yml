@@ -1,1 +1,30 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      type: "post"
+
+encoding: utf-8
+host: 0.0.0.0
+
+kramdown:
+  header_offset: 1
+
+paginate: 10
+
+plugins:
+  - jekyll-paginate
+
+timezone: Europe/Paris
 theme: jekyll-theme-hacker
+
+# site
+# ------------------------------------------------------------------------
+description: a geek diary
+title: Benoît Vidis
