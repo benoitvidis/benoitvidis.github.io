@@ -11,6 +11,7 @@ defaults:
       type: "post"
 
 encoding: utf-8
+gtm_id: G-GTBEJM5M43
 host: 0.0.0.0
 
 kramdown:
