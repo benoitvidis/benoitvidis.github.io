@@ -14,7 +14,7 @@ Mostly, the limited storage (8G) was becoming an issue. Also, since the last upg
 
 While the Mi Box S would be a natural upgrade, it suffers from the same RAM & storage limitations.
 
-The next step would have been the [NVidia Shield](https://www.nvidia.com/en-us/shield/), but we do not play on android and I was reluctant to put that amount of many just to get more storage.
+The next step would have been the [NVidia Shield](https://www.nvidia.com/en-us/shield/), but we do not play on android and I was reluctant to spend that much just to get more storage.
 
 Eventually, I ordered a low-end Chinese box, namely, a [X96 max plus](https://www.geekbuying.com/item/X96-MAX-Plus-Amlogic-S905x3-Android-9-0-8K-Video-Decode-TV-Box-4GB-64G-422573.html).
 
