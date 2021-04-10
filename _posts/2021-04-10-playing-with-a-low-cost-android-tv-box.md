@@ -87,4 +87,4 @@ On the other hand, we are feeling the boost in performance compared to the Mi Bo
 
 NB: the SOC is not a harcore performer and won't be able to run games like Fornite or compete with a NVidia shield. But compared to the Mi Box 3, or [even the Mi Box S](https://androidpctv.com/comparative-amlogic-s905x3/), it does not look ridiculous.
 
-Actually, I am looking for testing it with my [gamepad](https://www.8bitdo.com/sn30-pro-plus/) and some emulators.
+Actually, I am looking for testing it with emulators.
