@@ -6,6 +6,27 @@ tags:
   - home
 ---
 ![Pawel Czerwinski - unsplash](/assets/img/pawel-czerwinski-Lki74Jj7H-U-unsplash.webp)
+
+**[Edit 2021-04-24]**  
+After two weeks of usage, we are less enthusiast.
+
+The main idea remains valid: if you are not afraid of small hacking and tweaking things, you'll get a solid box for a low cost.
+
+That being said, a few things are less shiny:
+
+- The box is not certified. As a side effect, Chromecast built-in won't work and I won't be able to register it in Google home. It is a small detail, but I liked the ability to tune the volume from Google assistant when I have my hands busy, like, for instance, when cooking.
+- The codec certification is also an small issue. Contrary to my first impression, Prime Video won't play any video.
+- From time to time, the box just freezes
+- The power button of the remote in the article is not mappable as it is not detected. With another remote, the power button works fine to switch the box off, but it needs to be physically unplugged and plugged back to restart, notably because of the fact the USB port used by the RF dongle is also switched off. An alternative would be to use HDMI CEC for this.
+- Generally speaking, the remote with integrated keyboard is not very well integrated. I have now switched to a "regular" remote, integrating a microphone.
+
+On the good sides
+
+- I confirm playing emulators is nice (don't expect to run Dreamcast, but I managed to play PSP games)
+- Having plenty of space and a relatively fast cpu is a breeze
+
+----
+
 We have been using a [Xiaomi Mi Box 3](https://xiaomi-mi.com/tv-boxes/xiaomi-mi-box-3-international-edition-2gb8gb-4k-tv-console-black/) for several years now. 
 
 We've been happy with it till now but a couple of things made me think about switching to something else.

@@ -287,3 +287,17 @@ header h1 {
   }
 }
 
+ul {
+  li {
+    list-style: none;
+    list-style-image: none;
+    margin-bottom: 0.5em;
+    &::before {
+      content: "\2022";
+      color: $conifer;
+      display: inline-block;
+      margin-left: -1em;
+      width: 1em;
+    }
+  }
+}
